@@ -1,4 +1,4 @@
-# **Project Type:** Internship Project – GrowAI
+# **Project Type:** Internship Project – GROWAI
 # COVID-19 Cases & Vaccination Analysis — Power BI
 
 ## Project Overview
