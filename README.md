@@ -9,6 +9,8 @@ This project analyzes COVID-19 cases, recoveries, deaths, state-wise impact, glo
 
 The dashboard combines Indian COVID-19 case data with global vaccination data to provide an interactive overview of pandemic trends and vaccination patterns.
 
+The project was completed as part of my **GROWAI Data Analyst Internship** using Power BI.
+
 ## Business Problem
 
 During the COVID-19 pandemic, understanding infection trends, identifying highly affected states, and reviewing vaccination progress were important for public-health planning.
@@ -26,7 +28,7 @@ This project brings together COVID-19 case information and global vaccination re
 
 ## My Role
 
-As a **Data Analyst Intern at GrowAI**, I worked with three datasets covering daily COVID-19 trends, Indian state-wise cases, and global vaccination records.
+As a **Data Analyst Intern at GROWAI**, I worked with three datasets covering daily COVID-19 trends, Indian state-wise cases, and global vaccination records.
 
 My responsibilities included data understanding, cleaning and transformation, data modeling, DAX calculations, dashboard development, and presenting key findings.
 
